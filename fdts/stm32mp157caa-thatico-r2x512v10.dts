@@ -15,7 +15,7 @@
 #include <dt-bindings/soc/st,stm32-etzpc.h>
 
 / {
-	model = "THATICO STM32MP1517CAA3 1GB V1.0 Board";
+	model = "THATICO STM32MP157CAA3 1GB V1.0 Board";
     compatible = "st,stm32mp157caa-thatico-r2x512v10", "st,stm32mp157";
 
 	aliases {
